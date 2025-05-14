@@ -1,0 +1,10 @@
+.title-box {
+    background-color: rgb(252, 246, 239);
+    border-radius: 15px;
+    padding: 20px; 
+    text-align: center;
+    font-style: unset;
+    font-size: 40px; 
+    color: #000000;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
