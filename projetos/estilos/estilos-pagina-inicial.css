@@ -126,3 +126,10 @@ navbar a {
     font-style: bold;
     padding-top: 10px;
 }
+
+/* footer */
+footer {
+    background-color:#423831;
+    color: white;
+    padding: 15px 0;
+}
